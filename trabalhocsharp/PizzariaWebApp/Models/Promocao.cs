@@ -19,7 +19,7 @@ namespace PizzariaWebApp.Models
         public decimal Desconto { get; set; }
 
         [Required]
-        public ICollection<Pizza> PizzasIncluidas { get; set; } // Ou List<Pizza>
+        public List<Pizza> PizzasIncluidas { get; set; } // Ou List<Pizza>
 
         public Promocao()
         {
