@@ -1,7 +1,0 @@
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.csproj.AssemblyReference.cache
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.AssemblyInfoInputs.cache
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.AssemblyInfo.cs
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.csproj.CoreCompileInputs.cache
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Andrey\Desktop\andrey\trabalhocsharp\PizzariaWebApp\obj\Debug\net8.0\PizzariaWebApp.MvcApplicationPartsAssemblyInfo.cache
