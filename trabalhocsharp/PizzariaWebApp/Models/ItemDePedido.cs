@@ -10,7 +10,7 @@ namespace PizzariaWebApp.Models
         public int Id { get; set; }
 
         [Required]
-        public ICollection<Pizza> Pizzas { get; set; }
+        public List<Pizza> Pizzas { get; set; }
 
         [Required]
         public int Quantidade { get; set; }
