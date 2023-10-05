@@ -13,7 +13,7 @@ namespace PizzariaWebApp.Models
         public string Nome { get; set; }
 
         [Required]
-        public ICollection<string> Ingredientes { get; set; }
+        public List<string> Ingredientes { get; set; }
 
         // Adicionando construtor vazio
         public Fornecedor()
